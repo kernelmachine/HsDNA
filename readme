@@ -1,0 +1,4 @@
+DNA mitosis/meiosis simulator in haskell.Essentially an exercise with monads. Simulates the
+extremely coiled topology of DNA, topology, and active molecular actors and dynamics
+during replication. Check your local biochemistry textbook for more information. (Recommended:
+Introduction to Biochemistry by Nelson and Cox, where information for this project was obtained).
